@@ -1,5 +1,5 @@
 {
-    "name": "McZenTechnologies/php-jwt",
+    "name": "mczentechnologies/php-jwt",
     "description": "JSON Web Token implementation for PHP. Forked from https://github.com/nowakowskir/php-jwt",
     "type": "library",
     "homepage": "https://github.com/McZen-Technologies/php-jwt",
