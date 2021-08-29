@@ -1,8 +1,8 @@
 {
-    "name": "nowakowskir/php-jwt",
-    "description": "JSON Web Token implementation for PHP.",
+    "name": "mczentechnologies/php-jwt",
+    "description": "JSON Web Token implementation for PHP. Forked from https://github.com/nowakowskir/php-jwt",
     "type": "library",
-    "homepage": "https://github.com/nowakowskir/php-jwt",
+    "homepage": "https://github.com/McZen-Technologies/php-jwt",
     "authors": [
         {
             "name": "Radosław Nowakowski",
